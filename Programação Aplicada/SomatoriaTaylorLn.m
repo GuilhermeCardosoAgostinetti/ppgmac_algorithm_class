@@ -1,5 +1,6 @@
 % Trabalho Juliana O.
 % Discentes: Guilherme Cardoso Agostinetti e Nelson Nghale
+% Data: 20221009
 % Exercício 01
 
 clc, clear
